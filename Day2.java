@@ -37,5 +37,6 @@ public class Day2 {
 		if (s.contains("We will contact you very soon")) {
 			System.out.println("pass");			
 		}
+		
 	}
 }
